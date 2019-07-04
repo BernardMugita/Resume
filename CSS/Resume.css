@@ -1,0 +1,23 @@
+
+body{
+    background-image: url(../Resume.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+.content{
+    background: white;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+    font-family: fantasy;
+}
+p{
+  font-size: 25px;
+  color: black;
+  }
+.title{
+    background-color: aqua;
+
+}
